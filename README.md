@@ -4,15 +4,7 @@
 
 [MI CV](Andres_Cuevas_Rodriguez_CV.pdf)
 
-
-<a href="https://github.com/tu-usuario" class="btn btn-sm btn-outline-secondary">Follow</a>
-
-
-<h2>CV</h2>
-<p><a href="nombre-del-archivo.pdf">Descargar mi CV</a></p>
-
-
-    <h2>Lenguajes de Programación</h2>
+<h2>Lenguajes de Programación:</h2>
     <table>
         <tr>
             <td>HTML</td>
@@ -32,9 +24,9 @@
         </tr>
     </table>
 
-    <h2>Stats</h2>
+<h2>Stats</h2>
     <img src="URL-de-tu-grafico-de-stats" alt="Estadísticas de GitHub">
 
     <!-- Contacto (correo) -->
-    <h2>Contacto</h2>
-    <p><strong>Contacto:</strong> tu-correo@example.com</p>
+<h2>Contacto</h2>
+<p><strong>Contacto:</strong> tu-correo@example.com</p>
