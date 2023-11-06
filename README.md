@@ -1,10 +1,10 @@
-<h2>SOBRE MÍ 👋: </h2>
+<h2>SOBRE MÍ 👋👔: </h2>
 
 <a href="https://github.com/cuevas69" class="btn btn-sm btn-outline-secondary">👉 Follow me! </a> 
 
-[MI CV 👨‍💻](Andres_Cuevas_Rodriguez_CV.pdf)
+[MI CV 📑](Andres_Cuevas_Rodriguez_CV.pdf)
 
-<h2>SKILLS:</h2>
+<h2>SKILLS 👨‍💻:</h2>
     <table>
         <tr>
             <td>HTML</td>
