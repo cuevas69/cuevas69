@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**cuevas69/cuevas69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/cuevas69" class="btn btn-sm btn-outline-secondary">Follow</a>
 
-Here are some ideas to get you started:
+[Descargar mi CV](Andres_Cuevas_Rodriguez_CV.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Lenguaje | Icono |
+| --------- | ----- |
+| HTML      | <img src="icono-html.png" width="20"> |
+| CSS       | <img src="icono-css.png" width="20"> |
+| Java      | <img src="icono-java.png" width="20"> |
+| C#        | <img src="icono-csharp.png" width="20"> |
+
+**Contacto:** andrescuevas507@gmail.com
