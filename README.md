@@ -4,7 +4,7 @@
 
 [MI CV](Andres_Cuevas_Rodriguez_CV.pdf)
 
-<h2>Lenguajes de Programación:</h2>
+<h2>SKILLS:</h2>
     <table>
         <tr>
             <td>HTML</td>
@@ -19,14 +19,30 @@
             <td><img src="icono-java.png" width="20"></td>
         </tr>
         <tr>
+            <td>JavaScript</td>
+            <td><img src="icono-javascript.png" width="20"></td>
+        </tr>
+        <tr>
             <td>C#</td>
             <td><img src="icono-csharp.png" width="20"></td>
         </tr>
+        <tr>
+            <td>Angular</td>
+            <td><img src="icono-angular.png" width="20"></td>
+        </tr>
+        <tr>
+            <td>API-Rest</td>
+            <td><img src="icono-api.png" width="20"></td>
+        </tr>
+        <tr>
+            <td>Visual Studio</td>
+            <td><img src="icono-vs.png" width="20"></td>
+        </tr>
+        <tr>
+            <td>Android Studio</td>
+            <td><img src="icono-as.png" width="20"></td>
+        </tr>
     </table>
-
-<h2>Stats</h2>
-    <img src="URL-de-tu-grafico-de-stats" alt="Estadísticas de GitHub">
-
-    <!-- Contacto (correo) -->
-<h2>Contacto</h2>
-<p><strong>Contacto:</strong> tu-correo@example.com</p>
+    
+<h2>CONTACTO:</h2>
+<p><strong>andrescuevas507@gmail.com</strong></p>
