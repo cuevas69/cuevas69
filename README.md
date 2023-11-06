@@ -1,6 +1,6 @@
-### Hi there 👋
+<h2>SOBRE MÍ:</h2> 👋
 
-<a href="https://github.com/cuevas69" class="btn btn-sm btn-outline-secondary">Follow</a>
+<a href="https://github.com/cuevas69" class="btn btn-sm btn-outline-secondary">Follow</a> 
 
 [MI CV](Andres_Cuevas_Rodriguez_CV.pdf)
 
@@ -13,6 +13,10 @@
         <tr>
             <td>CSS</td>
             <td><img src="icono-css.png" width="20"></td>
+        </tr>
+        <tr>
+            <td>XML</td>
+            <td><img src="icono-xml.png" width="20"></td>
         </tr>
         <tr>
             <td>Java</td>
