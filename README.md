@@ -2,7 +2,7 @@
 
 <a href="https://github.com/cuevas69" class="btn btn-sm btn-outline-secondary">Follow</a>
 
-[Descargar mi CV](Andres_Cuevas_Rodriguez_CV.pdf)
+[MI CV](Andres_Cuevas_Rodriguez_CV.pdf)
 
 | Lenguaje | Icono |
 | --------- | ----- |
