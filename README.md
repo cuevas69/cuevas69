@@ -4,7 +4,7 @@
 
 [![Follow](https://img.shields.io/github/followers/cuevas69.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/cuevas69)
 
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](Andres_Cuevas_Rodriguez_CV.pdf) 
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](Andres_Cuevas_Rodriguez_CV.pdf-1.pdf) 
 
 <div>
  
