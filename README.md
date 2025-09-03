@@ -1,5 +1,5 @@
 <div align="center" href="https://github.com/cuevas69">
-<img src="https://readme-typing-svg.demolab.com/?font=Sans-serif&size=40&duration=2000&pause=300&color=F70000&center=true&vCenter=true&lines=Sobre mí" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Sans-serif&size=40&duration=2000&pause=300&color=F70000&center=true&vCenter=true&lines=Sobre%20m%C3%AD" alt="Typing SVG" />
 </div>
 
 [![Follow](https://img.shields.io/github/followers/cuevas69.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/cuevas69)
